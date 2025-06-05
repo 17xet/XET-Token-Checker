@@ -1,5 +1,8 @@
 # XET Token Checker 🎭
 
+![Screenshot 2025-06-04 182021](https://github.com/user-attachments/assets/f16c7997-bfaa-4fe1-9b2e-77afa48a1061)
+
+
 A colorful, terminal-based Discord token checker with support for themed color output, built using `pystyle` and `requests`.
 
 > ⚠️ This project is for educational purposes only. Misuse may violate Discord's Terms of Service.
