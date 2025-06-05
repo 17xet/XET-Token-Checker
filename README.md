@@ -75,3 +75,8 @@ Made with ❤️ by [17xet](https://github.com/17xet)
 🧩 [Discord - mx9raXzU9S](https://discord.gg/mx9raXzU9S)
 
 ---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
